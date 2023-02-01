@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VKMusic</string>
+    <string name="xposed_description">отключает лимит на прослушивание музыки</string>
+</resources>
